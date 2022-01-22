@@ -13,7 +13,7 @@
 - 🌽 I’m currently working on INTA (National Institute of Agricultural Technology).
 -  I’m a Full Stack Developer.
 -  I’m looking to collaborate in IT companies and projects.  
-- 💬 Ask me about MySql, Java, Spring Booot, CSS.
+- 💬 Ask me about MySql, Java, Spring Boot, CSS.
   
 <h2> My current Skills are <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
 <a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/css.svg' > </a>
