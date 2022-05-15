@@ -22,6 +22,8 @@
 <a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/Spring_Framework.svg'> </a>
 <a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/MySQL.svg'> </a>
 <a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/github.svg'> </a>
+<a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
+<a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/react.svg'> </a>
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/marcos-arg%C3%BCello-804105195/'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
