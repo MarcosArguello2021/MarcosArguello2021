@@ -13,7 +13,7 @@
 - 🌽 I’m currently working on INTA (National Institute of Agricultural Technology).
 -  I’m a Full Stack Developer.
 -  I’m looking to collaborate in IT companies and projects.  
-- 💬 Ask me about MySql, Java, Spring Boot, CSS.
+- 💬 Ask me about MySql, Java, Spring Boot, CSS, React, Python.
   
 <h2> My current Skills are <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 40px> </h2>
 <a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/css.svg' > </a>
@@ -24,6 +24,8 @@
 <a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/github.svg'> </a>
 <a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/javascript.svg'> </a>
 <a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/react.svg'> </a>
+<a href="#"> <img width ='50px' src ='https://raw.githubusercontent.com/MarcosArguello2021/githubAboutMeGenerator/main/icons/python.svg'> </a>
+ 
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/marcos-arg%C3%BCello-804105195/'> <img width = '50px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
